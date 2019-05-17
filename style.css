@@ -1,0 +1,42 @@
+.main-block{
+    width: 560px;
+    height: 560px;
+    border: 1px solid black;
+    float:left;
+}
+.block{
+    width: 70px;
+    height: 70px;
+    float: left;
+
+}
+.black{
+    background: black;
+}
+.white{
+    background: white;
+}
+.green{
+    background: green;
+}
+.blue{
+    background: blue;
+}
+.rowtext {
+    margin-left: 55px;
+    letter-spacing: 1.7em;
+    height: 5px;
+}
+#maindiv{
+    width: 630px;
+    height: 630px;
+    margin: 20px auto;
+    border: 1px solid black;
+}
+.verticaltext {
+    width:1em;
+    line-height:3.7em;
+    font-size:19px;
+    float: left;
+    margin-left: 5px;
+}
